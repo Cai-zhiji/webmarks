@@ -1,0 +1,32 @@
+links:
+  - title: GitHub
+    url: https://github.com
+    description: 全球最大的代码托管平台
+    category: 开发工具
+    icon: icons/github.png
+
+  - title: VS Code
+    url: https://code.visualstudio.com
+    description: 最爱的代码编辑器，扩展生态丰富，性能也不错
+    category: 开发工具
+
+  - title: ChatGPT
+    url: https://chat.openai.com
+    description: AI 助手，帮我解决了很多编程问题
+    category: AI工具
+    icon: icons/chatgpt.png
+
+  - title: MDN Web Docs
+    url: https://developer.mozilla.org
+    description: 最权威的 Web 开发文档，必备参考
+    category: 文档
+
+notes:
+  - title: 关于我
+    content: 嗨，我是一名全栈开发者，热爱编程和新技术。这里收集了我日常使用的工具和一些想法。
+
+  - title: 编程小记
+    content: 最近在学习 Rust，感觉很有意思。系统级编程语言也可以这么优雅。
+
+  - title: 技术清单
+    content: 近期学习计划：1. Rust基础 2. WebAssembly 3. 分布式系统理论 

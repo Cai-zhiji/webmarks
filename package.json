@@ -1,0 +1,12 @@
+{
+  "name": "bookmarks-generator",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node src/generate.js"
+  },
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "handlebars": "^4.7.7",
+    "js-yaml": "^4.1.0"
+  }
+} 

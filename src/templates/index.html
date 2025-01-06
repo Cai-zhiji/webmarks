@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="个人收藏的网址导航与笔记">
+    <meta name="robots" content="index, follow">
+    <title>我的书签 - 个人网址导航</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <main>
+        <div class="container">
+            <nav class="sidebar">
+                <div class="categories">
+                    {{#each categories}}
+                    <a href="{{link}}" class="category-item">{{name}}</a>
+                    {{/each}}
+                </div>
+            </nav>
+            <div class="main-content">
+                {{#each categoryLinks}}
+                <section id="{{category}}" class="category-section">
+                    <h2 class="category-title">{{category}}</h2>
+                    <div class="bookmarks">
+                        {{#each links}}
+                        <a href="{{url}}" class="bookmark-link" target="_blank" rel="noopener">
+                            <div class="bookmark-card">
+                                {{#if icon}}<img class="bookmark-logo" src="{{icon}}" alt="{{title}} logo">
+                                {{else}}<div class="bookmark-logo"></div>{{/if}}
+                                <div class="bookmark-content">
+                                    <h3>{{title}}</h3>
+                                    <p>{{description}}</p>
+                                </div>
+                            </div>
+                        </a>
+                        {{/each}}
+                    </div>
+                </section>
+                {{/each}}
+
+                {{#if notes.length}}
+                <section id="notes" class="category-section">
+                    <h2 class="category-title">笔记</h2>
+                    <div class="bookmarks">
+                        {{#each notes}}
+                        <div class="bookmark-card text-card">
+                            <h3>{{title}}</h3>
+                            <p>{{content}}</p>
+                        </div>
+                        {{/each}}
+                    </div>
+                </section>
+                {{/if}}
+            </div>
+        </div>
+    </main>
+
+    <script>
+        const updateNav = () => {
+            const hash = location.hash;
+            document.querySelectorAll('.category-item').forEach(item => 
+                item.classList.toggle('active', hash ? item.getAttribute('href') === hash : item.getAttribute('href') === '#')
+            );
+        };
+
+        document.querySelector('a[href="#"]').addEventListener('click', e => {
+            e.preventDefault();
+            scrollTo({ top: 0, behavior: 'smooth' });
+            history.pushState(null, '', location.pathname);
+            updateNav();
+        });
+
+        addEventListener('hashchange', updateNav);
+        addEventListener('load', updateNav);
+    </script>
+</body>
+</html> 
