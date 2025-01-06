@@ -1,24 +1,33 @@
 const fs = require('fs-extra');
 const yaml = require('js-yaml');
 const Handlebars = require('handlebars');
+const path = require('path');
 
 async function generate() {
+    const rootDir = path.join(__dirname, '..');
+    const distDir = path.join(rootDir, 'dist');
+    
     // 创建目录
-    await fs.ensureDir('dist/css');
-    await fs.ensureDir('dist/icons');
+    await fs.ensureDir(path.join(distDir, 'css'));
+    await fs.ensureDir(path.join(distDir, 'icons'));
     
     // 复制静态文件
-    await fs.copy('src/static/css', 'dist/css');
-    if (await fs.pathExists('icons')) {
-        await fs.copy('icons', 'dist/icons');
+    await fs.copy(path.join(__dirname, 'static/css'), path.join(distDir, 'css'));
+    const iconsDir = path.join(rootDir, 'icons');
+    if (await fs.pathExists(iconsDir)) {
+        await fs.copy(iconsDir, path.join(distDir, 'icons'));
     }
     
     // 读取数据
-    const bookmarks = yaml.load(await fs.readFile('bookmarks.yaml', 'utf8'));
+    const bookmarks = yaml.load(
+        await fs.readFile(path.join(__dirname, 'bookmarks.yaml'), 'utf8')
+    );
     const categories = [...new Set(bookmarks.links.map(link => link.category))];
     
     // 生成页面
-    const template = Handlebars.compile(await fs.readFile('src/templates/index.html', 'utf8'));
+    const template = Handlebars.compile(
+        await fs.readFile(path.join(__dirname, 'templates/index.html'), 'utf8')
+    );
     const data = {
         categories: [
             { name: '全部', link: '#' },
@@ -32,7 +41,7 @@ async function generate() {
         notes: bookmarks.notes
     };
     
-    await fs.writeFile('dist/index.html', template(data));
+    await fs.writeFile(path.join(distDir, 'index.html'), template(data));
 }
 
 generate().catch(console.error); 
