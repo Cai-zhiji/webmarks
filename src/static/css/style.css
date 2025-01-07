@@ -23,7 +23,7 @@ body {
 
 @media (max-width: 768px) {
     .container {
-        margin-left: 0; /* 移动端恢复正常布局 */
+        padding-left: 0; /* 移动端恢复正常布局 */
     }
 }
 
