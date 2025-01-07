@@ -27,61 +27,61 @@ links:
   - title: aospxref
     url: https://aospxref.com/
     description: 安卓在线AOSP源码
-    category: Android开发
+    category: Android
     icon: icons/android.png
 
   - title: LancetX
     url: https://github.com/Knight-ZXW/LancetX
     description: LancetX 是一个为Android项目设计的字节码插桩框架
-    category: Android开发
+    category: Android
     icon: icons/android.png
 
   - title: enjarify
     url: https://github.com/google/enjarify
     description: 反编译工具
-    category: Android开发
+    category: Android
     icon: icons/android.png
 
   - title: Luyten
     url: https://github.com/deathmarine/Luyten
     description: 反编译工具
-    category: Android开发
+    category: Android
     icon: icons/android.png
 
   - title: jd-gui
     url: https://github.com/java-decompiler/jd-gui
     description: 反编译工具
-    category: Android开发
+    category: Android
     icon: icons/android.png
 
   - title: Ghidra
     url: https://ghidra-sre.org/
     description: 反编译工具
-    category: Android开发
+    category: Android
     icon: icons/code.png
 
   - title: PCap Droid
     url: https://github.com/emanuele-f/PCAPdroid
     description: 安卓抓包工具
-    category: Android开发
+    category: Android
     icon: icons/android.png
 
   - title: pcap-remote
     url: https://github.com/egorovandreyrm/pcap-remote
     description: 安卓抓包工具
-    category: Android开发
+    category: Android
     icon: icons/android.png
 
   - title: Magisk
     url: https://github.com/topjohnwu/Magisk
     description: 安卓Magisk，root工具，面具
-    category: Android开发
+    category: Android
     icon: icons/android.png
 
   - title: Frida
     url: https://frida.re
     description: Hook框架
-    category: Android开发
+    category: Android
     icon: icons/android.png
 
 # AI
@@ -139,7 +139,7 @@ links:
     url: https://github.com/remote-android/redroid-doc
     description: Android系统研究笔记
     category: 开源程序
-    icon: icons/aliyun.png
+    icon: icons/github.png
 
   # 文档书籍
   - title: Spring Reading
