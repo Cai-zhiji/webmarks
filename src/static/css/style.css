@@ -21,6 +21,12 @@ body {
     padding-left: 140px;
 }
 
+@media (max-width: 768px) {
+    .container {
+        margin-left: 0; /* 移动端恢复正常布局 */
+    }
+}
+
 .sidebar {
     position: fixed;
     left: 0;
