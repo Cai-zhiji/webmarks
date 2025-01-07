@@ -1,25 +1,188 @@
 links:
-  - title: GitHub
-    url: https://github.com
-    description: 全球最大的代码托管平台
+
+  - title: 域名查找logo
+    url: https://www.google.com/s2/favicons?domain=www.google.com
+    description: 给域名查找logo
     category: 开发工具
+    icon: icons/google.png
+
+  - title: Base64
+    url: https://base64.us/
+    description: Base64编码解码
+    category: 开发工具
+    icon: icons/code.png
+
+  - title: bejson
+    url: https://www.bejson.com/
+    description: 在线JSON格式化
+    category: 开发工具
+    icon: icons/code.png
+
+  - title: url编码
+    url: https://www.bejson.com/enc/urlencode/
+    description: URL编码解码
+    category: 开发工具
+    icon: icons/code.png
+
+  - title: aospxref
+    url: https://aospxref.com/
+    description: 安卓在线AOSP源码
+    category: Android开发
+    icon: icons/android.png
+
+  - title: LancetX
+    url: https://github.com/Knight-ZXW/LancetX
+    description: LancetX 是一个为Android项目设计的字节码插桩框架
+    category: Android开发
+    icon: icons/android.png
+
+  - title: enjarify
+    url: https://github.com/google/enjarify
+    description: 反编译工具
+    category: Android开发
+    icon: icons/android.png
+
+  - title: Luyten
+    url: https://github.com/deathmarine/Luyten
+    description: 反编译工具
+    category: Android开发
+    icon: icons/android.png
+
+  - title: jd-gui
+    url: https://github.com/java-decompiler/jd-gui
+    description: 反编译工具
+    category: Android开发
+    icon: icons/android.png
+
+  - title: Ghidra
+    url: https://ghidra-sre.org/
+    description: 反编译工具
+    category: Android开发
+    icon: icons/code.png
+
+  - title: PCap Droid
+    url: https://github.com/emanuele-f/PCAPdroid
+    description: 安卓抓包工具
+    category: Android开发
+    icon: icons/android.png
+
+  - title: pcap-remote
+    url: https://github.com/egorovandreyrm/pcap-remote
+    description: 安卓抓包工具
+    category: Android开发
+    icon: icons/android.png
+
+  - title: Magisk
+    url: https://github.com/topjohnwu/Magisk
+    description: 安卓Magisk，root工具，面具
+    category: Android开发
+    icon: icons/android.png
+
+  - title: Frida
+    url: https://frida.re
+    description: Hook框架
+    category: Android开发
+    icon: icons/android.png
+
+# AI
+
+  - title: anything-llm
+    url: https://github.com/Mintplex-Labs/anything-llm
+    description: 一个开源的AI模型
+    category: 开源程序
     icon: icons/github.png
 
-  - title: VS Code
-    url: https://code.visualstudio.com
-    description: 最爱的代码编辑器，扩展生态丰富，性能也不错
-    category: 开发工具
+  - title: awesome-chatgpt-prompts
+    url: https://github.com/f/awesome-chatgpt-prompts
+    description: ChatGPT提示词
+    category: AI
+    icon: icons/github.png
 
-  - title: ChatGPT
-    url: https://chat.openai.com
-    description: AI 助手，帮我解决了很多编程问题
-    category: AI工具
-    icon: icons/chatgpt.png
+  - title: LangGPT
+    url: https://github.com/langgptai/LangGPT
+    description: 人人都可编写高质量 Prompt 
+    category: AI
+    icon: icons/github.png
 
-  - title: MDN Web Docs
-    url: https://developer.mozilla.org
-    description: 最权威的 Web 开发文档，必备参考
-    category: 文档
+# 开源程序
+  - title: AList
+    url: https://alist.nn.ci
+    description: 一款支持多种存储的文件列表程序
+    category: 开源程序
+    icon: icons/app.png
+
+  - title: Stirling-PDF
+    url: https://github.com/Stirling-Tools/Stirling-PDF
+    description: 各种PDF工具集合
+    category: 开源程序
+    icon: icons/app.png
+
+  - title: pdfium-binaries
+    url: https://github.com/bblanchon/pdfium-binaries
+    description: pdfium-binaries
+    category: 开源程序
+    icon: icons/github.png
+
+  - title: MicroTeX
+    url: https://github.com/NanoMichael/MicroTeX
+    description: 一个开源的LaTeX发行版,LaTeX开源库
+    category: 开源程序
+    icon: icons/github.png
+
+  - title: awesome-selfhosted
+    url: https://github.com/awesome-selfhosted/awesome-selfhosted
+    description: 自托管软件列表
+    category: 开源程序
+    icon: icons/github.png
+
+  - title: redroid-doc
+    url: https://github.com/remote-android/redroid-doc
+    description: Android系统研究笔记
+    category: 开源程序
+    icon: icons/aliyun.png
+
+  # 文档书籍
+  - title: Spring Reading
+    url: https://github.com/xuchengsheng/spring-reading
+    description: 阅读Spring源码
+    category: 文档书籍
+    icon: icons/doc.png
+
+  - title: Ebook
+    url: https://github.com/jingyuexing/Ebook
+    description: 各类电子书，数学，机器学习，玄学
+    category: 文档书籍
+    icon: icons/doc.png
+
+  - title: 书单
+    url: https://github.com/gaograce/booklist
+    description: 书单
+    category: 文档书籍
+    icon: icons/doc.png
+
+  - title: android-training
+    url: https://github.com/5A59/android-training
+    description: 安卓学习资料
+    category: 文档书籍
+    icon: icons/doc.png
+
+  - title: Android-Notes
+    url: https://github.com/Omooo/Android-Notes
+    description: 安卓学习笔记
+    category: 文档书籍
+    icon: icons/doc.png
+
+  - title: free-programming-books
+    url: https://github.com/EbookFoundation/free-programming-books
+    description: 免费编程书籍
+    category: 文档书籍
+    icon: icons/doc.png
+
+  - title: androidnotes
+    url: https://github.com/carylake/androidnotes
+    description: Android系统研究笔记
+    category: 文档书籍
+    icon: icons/doc.png
 
 notes:
   - title: 关于我
