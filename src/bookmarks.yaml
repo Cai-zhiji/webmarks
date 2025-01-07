@@ -1,7 +1,7 @@
 links:
 
   - title: 域名查找logo
-    url: https://www.google.com/s2/favicons?domain=www.google.com
+    url: https://www.google.com/s2/favicons?domain=www.google.com&sz=32
     description: 给域名查找logo
     category: 开发工具
     icon: icons/google.png
@@ -89,20 +89,20 @@ links:
   - title: anything-llm
     url: https://github.com/Mintplex-Labs/anything-llm
     description: 一个开源的AI模型
-    category: 开源程序
-    icon: icons/github.png
+    category: AI
+    icon: icons/robot.png
 
   - title: awesome-chatgpt-prompts
     url: https://github.com/f/awesome-chatgpt-prompts
     description: ChatGPT提示词
     category: AI
-    icon: icons/github.png
+    icon: icons/robot.png
 
   - title: LangGPT
     url: https://github.com/langgptai/LangGPT
     description: 人人都可编写高质量 Prompt 
     category: AI
-    icon: icons/github.png
+    icon: icons/robot.png
 
 # 开源程序
   - title: AList
