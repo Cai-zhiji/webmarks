@@ -103,7 +103,26 @@ links:
     description: 人人都可编写高质量 Prompt 
     category: AI
     icon: icons/robot.png
+    
+  - title: Claude
+    url: https://claude.ai/
+    description: 聊天式AI
+    category: AI
+    icon: icons/robot.png
+    
+  - title: recraft.ai
+    url: https://www.recraft.ai/
+    description: AI画图
+    category: AI
+    icon: icons/robot.png
 
+  - title: midjourney
+    url: https://www.midjourney.com/
+    description: AI画图
+    category: AI
+    icon: icons/robot.png
+
+    
 # 开源程序
   - title: AList
     url: https://alist.nn.ci
