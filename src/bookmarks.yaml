@@ -161,6 +161,12 @@ links:
     icon: icons/github.png
 
   # 文档书籍
+  - title: z-library
+    url: https://z-library.sk/
+    description: 电子书下载 英文居多
+    category: 文档书籍
+    icon: icons/doc.png
+
   - title: Spring Reading
     url: https://github.com/xuchengsheng/spring-reading
     description: 阅读Spring源码
