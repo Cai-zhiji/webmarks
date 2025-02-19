@@ -1,220 +1,284 @@
 links:
+  - title: 豆瓣读书
+    url: https://book.douban.com/
+    description: 图书资源搜索
+    category: 资源搜索
 
-  - title: 域名查找logo
-    url: https://www.google.com/s2/favicons?domain=www.google.com&sz=32
-    description: 给域名查找logo
-    category: 开发工具
-    icon: icons/google.png
+  - title: Anna's Archive
+    url: https://annas-archive.org/
+    description: 图书资源搜索
+    category: 资源搜索
 
-  - title: Base64
-    url: https://base64.us/
-    description: Base64编码解码
-    category: 开发工具
-    icon: icons/code.png
+  - title: 阿虚同学的储物间
+    url: https://axutongxue.space/
+    description: 资源搜索导航站
+    category: 资源搜索
 
-  - title: bejson
-    url: https://www.bejson.com/
-    description: 在线JSON格式化
-    category: 开发工具
-    icon: icons/code.png
+  - title: AI工具集官网
+    url: https://ai-bot.cn/
+    description: 国内外AI工具集导航大全
+    category: 资源搜索
 
-  - title: url编码
-    url: https://www.bejson.com/enc/urlencode/
-    description: URL编码解码
-    category: 开发工具
-    icon: icons/code.png
+  - title: 爱达杂货铺
+    url: https://adzhp.cc/
+    description: 有用资源收集导航
+    category: 资源搜索
 
-  - title: aospxref
-    url: https://aospxref.com/
-    description: 安卓在线AOSP源码
-    category: Android
-    icon: icons/android.png
+  - title: 资源铺
+    url: https://zypuu.com/
+    description: 资源搜索网站
+    category: 资源搜索
 
-  - title: LancetX
-    url: https://github.com/Knight-ZXW/LancetX
-    description: LancetX 是一个为Android项目设计的字节码插桩框架
-    category: Android
-    icon: icons/android.png
+  - title: UPYUNSO
+    url: https://www.upyunso.com/
+    description: 资源搜索网站
+    category: 资源搜索
 
-  - title: enjarify
-    url: https://github.com/google/enjarify
-    description: 反编译工具
-    category: Android
-    icon: icons/android.png
+  - title: Pan666
+    url: https://pan666.net/
+    description: 网盘资源搜索
+    category: 资源搜索
 
-  - title: Luyten
-    url: https://github.com/deathmarine/Luyten
-    description: 反编译工具
-    category: Android
-    icon: icons/android.png
+  - title: Z-Library
+    url: https://z-lib.gs/
+    description:  电子书资源
+    category: 资源搜索
 
-  - title: jd-gui
-    url: https://github.com/java-decompiler/jd-gui
-    description: 反编译工具
-    category: Android
-    icon: icons/android.png
+  - title: Greasy Fork
+    url: https://greasyfork.org/zh-CN
+    description:  浏览器脚本分享
+    category: 资源搜索
 
-  - title: Ghidra
-    url: https://ghidra-sre.org/
-    description: 反编译工具
-    category: Android
-    icon: icons/code.png
+  - title: 全家桶不限速下载 - 语雀
+    url: https://www.yuque.com/u21320519/kb/pxhb1a
+    description:  不限速下载工具分享
+    category: 资源搜索
 
-  - title: PCap Droid
-    url: https://github.com/emanuele-f/PCAPdroid
-    description: 安卓抓包工具
-    category: Android
-    icon: icons/android.png
+  - title: 好大头软件
+    url: https://blog.laoplayer.com/
+    description:  软件分享博客
+    category: 资源搜索
 
-  - title: pcap-remote
-    url: https://github.com/egorovandreyrm/pcap-remote
-    description: 安卓抓包工具
-    category: Android
-    icon: icons/android.png
+  - title: e-hentai
+    url: https://e-hentai.org/
+    description:  你懂的
+    category: 资源搜索 # 请注意使用
 
-  - title: Magisk
-    url: https://github.com/topjohnwu/Magisk
-    description: 安卓Magisk，root工具，面具
-    category: Android
-    icon: icons/android.png
+  - title: WayToAGI - AI 提示词
+    url: https://www.waytoagi.com/zh/prompts
+    description:  AI提示词库
+    category: 资源搜索
 
-  - title: Frida
-    url: https://frida.re
-    description: Hook框架
-    category: Android
-    icon: icons/android.png
+  - title: Switch520
+    url: https://www.gamer520.com/
+    description:  Switch 游戏资源
+    category: 资源搜索
 
-# AI
+  - title: 笨小兔
+    url: https://www.benxiaotu.com/page/2/
+    description:  软件APP和在线工具推荐
+    category: 资源搜索
 
-  - title: anything-llm
-    url: https://github.com/Mintplex-Labs/anything-llm
-    description: 一个开源的AI模型
+  - title: HiPPTER - PPT资源导航
+    url: https://www.hippter.com/
+    description:  PPT模板图表下载
+    category: 资源搜索
+
+  - title: LookAE - 大众脸影视后期特效
+    url: https://www.lookae.com/
+    description:  AE特效资源
+    category: 资源搜索
+
+  - title: 浙江省公共图书馆资源服务门户
+    url: http://zjisa.zjlib.cn//home/zy_home.jsp
+    description:  公共图书馆资源
+    category: 资源搜索
+
+  - title: 坚果云
+    url: https://www.jianguoyun.com/d/home#/
+    description:  云盘服务
+    category: 工具
+
+  - title: Woozooo网盘
+    url: https://up.woozooo.com/account.php?action=login&amp;ref=/mydisk.php
+    description:  网盘登录
+    category: 工具
+
+  - title: 百度网盘
+    url: https://pan.baidu.com/disk/main?from=homeFlow#/index?category=all
+    description:  网盘
+    category: 工具
+
+  - title: 欧路词典
+    url: https://dict.eudic.net/
+    description:  在线词典
+    category: 工具
+
+  - title: 有道翻译
+    url: https://fanyi.youdao.com/index.html#/AITranslate
+    description:  在线翻译
+    category: 工具
+
+  - title: AConvert
+    url: https://www.aconvert.com/cn/
+    description:  在线文件转换
+    category: 工具
+
+  - title: Alltoall - PDF转Word
+    url: https://www.alltoall.net/
+    description:  在线PDF转Word
+    category: 工具
+
+  - title: Hex to RGBA Converter
+    url: https://coding.tools/cn/hex-to-rgba
+    description:  Hex转RGBA在线工具
+    category: 工具
+
+  - title: Markdown Formatter
+    url: https://www.xuhuhu.com/markdown-formatter.html
+    description:  Markdown格式化工具
+    category: 工具
+
+  - title: Unlock Music
+    url: https://um-react.netlify.app/
+    description:  音乐解锁工具
+    category: 工具
+
+  - title: 爱给网 - 音频剪切器
+    url: https://www.aigei.com/tool/audio/trim
+    description:  在线音频剪切
+    category: 工具
+
+  - title: PicGo
+    url: https://picgo.github.io/PicGo-Doc/zh/guide/
+    description:  图床工具
+    category: 工具
+
+  - title: Vocabulary.com
+    url: https://www.vocabulary.com/
+    description:  英语词汇学习
+    category: 工具
+
+  - title: SMS-Activate
+    url: https://sms-activate.guru/cn
+    description:  短信验证码平台
+    category: 工具
+
+  - title: PKMer 知识社区
+    url: https://pkmer.cn/page/
+    description:  知识管理社区
+    category: 工具
+
+  - title: Frontend Developer Roadmap
+    url: https://roadmap.sh/frontend
+    description:  前端开发学习路线图
+    category: 编程学习资料
+
+  - title: MDN Web Docs - Learn web development
+    url: https://developer.mozilla.org/zh-CN/docs/Learn_web_development
+    description:  MDN Web开发学习文档
+    category: 编程学习资料
+
+  - title: cuggz的面试指南
+    url: https://www.yuque.com/cuggz/interview
+    description:  面试准备资料
+    category: 编程学习资料
+
+  - title: CS自学指南
+    url: https://csdiy.wiki/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/#_3
+    description:  计算机科学自学指南
+    category: 编程学习资料
+
+  - title: TeachYourselfCS-CN
+    url: https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md
+    description:  计算机科学自学教程
+    category: 编程学习资料
+
+  - title: Hugging Face
+    url: https://huggingface.co/
+    description:  AI模型社区
+    category: 网络社区
+
+  - title: GitHub
+    url: https://github.com/
+    description:  代码托管平台
+    category: 网络社区
+
+  - title: Gitee
+    url: https://gitee.com/
+    description:  国内代码托管平台
+    category: 网络社区
+
+  - title: Stack Overflow
+    url: https://stackoverflow.com/questions
+    description:  技术问答社区
+    category: 网络社区
+
+  - title: CodePen
+    url: https://codepen.io/trending
+    description:  前端代码展示平台
+    category: 网络社区
+
+  - title: 极速云
+    url: https://xn--fetx1ybsvkym.com/
+    description:  VPN服务
+    category: VPN
+
+  - title: 飞鸟云
+    url: https://feiniaoyun.xyz/#/login
+    description:  VPN服务
+    category: VPN
+
+  - title: V2RaySE
+    url: https://v2rayse.com/
+    description:  VPN服务
+    category: VPN
+
+  - title: BlogToday
+    url: https://blogtoday.work/#/plan
+    description:  VPN服务
+    category: VPN
+
+  - title: VJJWZ API
+    url: https://api.vjjwz.cn/token
+    description:  AI API
     category: AI
-    icon: icons/robot.png
 
-  - title: awesome-chatgpt-prompts
-    url: https://github.com/f/awesome-chatgpt-prompts
-    description: ChatGPT提示词
+  - title: LobeChat
+    url: https://lobe.gptacg.com/chat
+    description:  AI聊天机器人
     category: AI
-    icon: icons/robot.png
 
-  - title: LangGPT
-    url: https://github.com/langgptai/LangGPT
-    description: 人人都可编写高质量 Prompt 
+  - title: DeepSeek Chat
+    url: https://chat.deepseek.com/
+    description:  AI聊天机器人
     category: AI
-    icon: icons/robot.png
-    
-  - title: Claude
-    url: https://claude.ai/
-    description: 聊天式AI
-    category: AI
-    icon: icons/robot.png
-    
-  - title: recraft.ai
-    url: https://www.recraft.ai/
-    description: AI画图
-    category: AI
-    icon: icons/robot.png
 
-  - title: midjourney
-    url: https://www.midjourney.com/
-    description: AI画图
-    category: AI
-    icon: icons/robot.png
+  - title: 岐黄
+    url: https://qihuang.vip/
+    description:  中医古籍资源
+    category: 电子书
 
-    
-# 开源程序
-  - title: AList
-    url: https://alist.nn.ci
-    description: 一款支持多种存储的文件列表程序
-    category: 开源程序
-    icon: icons/app.png
+  - title: Wiki8 - 中医古籍
+    url: https://www.wiki8.cn/guji/books
+    description:  中医古籍资源
+    category: 电子书
 
-  - title: Stirling-PDF
-    url: https://github.com/Stirling-Tools/Stirling-PDF
-    description: 各种PDF工具集合
-    category: 开源程序
-    icon: icons/app.png
+  - title: 马克思主义文库
+    url: https://www.marxists.org/chinese/index.html
+    description:  马克思主义著作
+    category: 电子书
 
-  - title: pdfium-binaries
-    url: https://github.com/bblanchon/pdfium-binaries
-    description: pdfium-binaries
-    category: 开源程序
-    icon: icons/github.png
+  - title: OP.GG
+    url: https://www.op.gg/
+    description:  英雄联盟战绩查询
+    category: 娱乐
 
-  - title: MicroTeX
-    url: https://github.com/NanoMichael/MicroTeX
-    description: 一个开源的LaTeX发行版,LaTeX开源库
-    category: 开源程序
-    icon: icons/github.png
-
-  - title: awesome-selfhosted
-    url: https://github.com/awesome-selfhosted/awesome-selfhosted
-    description: 自托管软件列表
-    category: 开源程序
-    icon: icons/github.png
-
-  - title: redroid-doc
-    url: https://github.com/remote-android/redroid-doc
-    description: Android系统研究笔记
-    category: 开源程序
-    icon: icons/github.png
-
-  # 文档书籍
-  - title: z-library
-    url: https://z-library.sk/
-    description: 电子书下载 英文居多
-    category: 文档书籍
-    icon: icons/doc.png
-
-  - title: Spring Reading
-    url: https://github.com/xuchengsheng/spring-reading
-    description: 阅读Spring源码
-    category: 文档书籍
-    icon: icons/doc.png
-
-  - title: Ebook
-    url: https://github.com/jingyuexing/Ebook
-    description: 各类电子书，数学，机器学习，玄学
-    category: 文档书籍
-    icon: icons/doc.png
-
-  - title: 书单
-    url: https://github.com/gaograce/booklist
-    description: 书单
-    category: 文档书籍
-    icon: icons/doc.png
-
-  - title: android-training
-    url: https://github.com/5A59/android-training
-    description: 安卓学习资料
-    category: 文档书籍
-    icon: icons/doc.png
-
-  - title: Android-Notes
-    url: https://github.com/Omooo/Android-Notes
-    description: 安卓学习笔记
-    category: 文档书籍
-    icon: icons/doc.png
-
-  - title: free-programming-books
-    url: https://github.com/EbookFoundation/free-programming-books
-    description: 免费编程书籍
-    category: 文档书籍
-    icon: icons/doc.png
-
-  - title: androidnotes
-    url: https://github.com/carylake/androidnotes
-    description: Android系统研究笔记
-    category: 文档书籍
-    icon: icons/doc.png
+  - title: 《图书情报》杂志社 官网
+    url: http://tsqbzzs.cn/
+    description:  图书情报学术期刊
+    category: 其他
 
 notes:
-  - title: 关于我
-    content: 嗨，我是一名全栈开发者，热爱编程和新技术。这里收集了我日常使用的工具和一些想法。
-
-  - title: 编程小记
-    content: 最近在学习 Rust，感觉很有意思。系统级编程语言也可以这么优雅。
-
-  - title: 技术清单
-    content: 近期学习计划：1. Rust基础 2. WebAssembly 3. 分布式系统理论 
+  - title: 书签说明
+    content: 这是一份我的个人书签，按照不同类别进行了整理。部分网站可能需要科学上网才能访问。e-hentai 网站内容较为敏感，请谨慎访问。
