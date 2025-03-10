@@ -41,267 +41,267 @@ links:
 
   - title: Z-Library
     url: https://z-lib.gs/
-    description:  电子书资源
+    description: 电子书资源
     category: 资源搜索
 
   - title: Greasy Fork
     url: https://greasyfork.org/zh-CN
-    description:  浏览器脚本分享
+    description: 浏览器脚本分享
     category: 资源搜索
 
   - title: Adobe全家桶不限速下载 - 语雀
     url: https://www.yuque.com/u21320519/kb/pxhb1a
-    description:  不限速下载工具分享
+    description: 不限速下载工具分享
     category: 资源搜索
 
   - title: 好大头软件
     url: https://blog.laoplayer.com/
-    description:  软件分享博客
+    description: 软件分享博客
     category: 资源搜索
-  
-  - title: 腾讯元宝 - 轻松工作 多点生活
-    url: https://yuanbao.tencent.com/chat/naQivTmsDa
-    description: 基于腾讯混元大模型的和DeepSeekAI应用，提供写作、绘画、文案、翻译、编程、搜索、阅读总结等功能
-    category: AI工具
-  
-  - title: Kimi - 会推理解析,能深度思考的AI助手
-    url: https://kimi.moonshot.cn/
-    description: 具备推理解析和深度思考能力的AI助手
-    category: AI工具
-  
-  - title: DeepSeek官方提示词库
-    url: https://api-docs.deepseek.com/zh-cn/prompt-library/?utm_source=ai-bot.cn
-    description: 探索DeepSeek提示词样例，提供代码改写、解释、生成、内容分类、结构化输出、角色扮演、散文写作、诗歌创作、文案大纲生成、宣传标语生成、模型提示词生成、中英翻译等功能
-    category: AI工具
-  
-  - title: Jable.tv Model 83397477054d35cd07e2c48685335a86
-    url: https://jable.tv/models/83397477054d35cd07e2c48685335a86/
-    description: 八卦海
-    category: 你懂的
-  
-  - title: E-Hentai
-    url: https://e-hentai.org/
-    description: E-Hentai 成人内容网站
-    category: 你懂的
-  
-  - title: Jable.tv Model 1a7543f89b125421e489d98de472ebf4
-    url: https://jable.tv/models/1a7543f89b125421e489d98de472ebf4/
-    description: 森日向子
-    category: 你懂的
 
   - title: WayToAGI - AI 提示词
     url: https://www.waytoagi.com/zh/prompts
-    description:  AI提示词库
+    description: AI提示词库
     category: 资源搜索
 
   - title: Switch520
     url: https://www.gamer520.com/
-    description:  Switch 游戏资源
+    description: Switch 游戏资源
     category: 资源搜索
 
   - title: 笨小兔
     url: https://www.benxiaotu.com/page/2/
-    description:  软件APP和在线工具推荐
+    description: 软件APP和在线工具推荐
     category: 资源搜索
 
   - title: HiPPTER - PPT资源导航
     url: https://www.hippter.com/
-    description:  PPT模板图表下载
+    description: PPT模板图表下载
     category: 资源搜索
 
   - title: LookAE - 大众脸影视后期特效
     url: https://www.lookae.com/
-    description:  AE特效资源
+    description: AE特效资源
     category: 资源搜索
 
   - title: 浙江省公共图书馆资源服务门户
     url: http://zjisa.zjlib.cn//home/zy_home.jsp
-    description:  公共图书馆资源
+    description: 公共图书馆资源
     category: 资源搜索
+
+  - title: 腾讯元宝 - 轻松工作 多点生活
+    url: https://yuanbao.tencent.com/chat/naQivTmsDa
+    description: 基于腾讯混元大模型的和DeepSeekAI应用，提供写作、绘画、文案、翻译、编程、搜索、阅读总结等功能
+    category: AI工具
+
+  - title: Kimi - 会推理解析,能深度思考的AI助手
+    url: https://kimi.moonshot.cn/
+    description: 具备推理解析和深度思考能力的AI助手
+    category: AI工具
+
+  - title: DeepSeek官方提示词库
+    url: https://api-docs.deepseek.com/zh-cn/prompt-library/?utm_source=ai-bot.cn
+    description: 探索DeepSeek提示词样例，提供代码改写、解释、生成、内容分类、结构化输出、角色扮演、散文写作、诗歌创作、文案大纲生成、宣传标语生成、模型提示词生成、中英翻译等功能
+    category: AI工具
+
+  - title: Jable.tv Model 83397477054d35cd07e2c48685335a86
+    url: https://jable.tv/models/83397477054d35cd07e2c48685335a86/
+    description: 八卦海
+    category: 成人内容
+
+  - title: E-Hentai
+    url: https://e-hentai.org/
+    description: E-Hentai 成人内容网站
+    category: 成人内容
+
+  - title: Jable.tv Model 1a7543f89b125421e489d98de472ebf4
+    url: https://jable.tv/models/1a7543f89b125421e489d98de472ebf4/
+    description: 森日向子
+    category: 成人内容
 
   - title: 坚果云
     url: https://www.jianguoyun.com/d/home#/
-    description:  云盘服务
+    description: 云盘服务
     category: 工具
 
   - title: Woozooo网盘
     url: https://up.woozooo.com/account.php?action=login&amp;ref=/mydisk.php
-    description:  网盘登录
+    description: 网盘登录
     category: 工具
 
   - title: 百度网盘
     url: https://pan.baidu.com/disk/main?from=homeFlow#/index?category=all
-    description:  网盘
+    description: 网盘
     category: 工具
 
   - title: 欧路词典
     url: https://dict.eudic.net/
-    description:  在线词典
+    description: 在线词典
     category: 工具
 
   - title: 有道翻译
     url: https://fanyi.youdao.com/index.html#/AITranslate
-    description:  在线翻译
+    description: 在线翻译
     category: 工具
 
   - title: AConvert
     url: https://www.aconvert.com/cn/
-    description:  在线文件转换
+    description: 在线文件转换
     category: 工具
 
   - title: Alltoall - PDF转Word
     url: https://www.alltoall.net/
-    description:  在线PDF转Word
+    description: 在线PDF转Word
     category: 工具
 
   - title: Hex to RGBA Converter
     url: https://coding.tools/cn/hex-to-rgba
-    description:  Hex转RGBA在线工具
+    description: Hex转RGBA在线工具
     category: 工具
 
   - title: Markdown Formatter
     url: https://www.xuhuhu.com/markdown-formatter.html
-    description:  Markdown格式化工具
+    description: Markdown格式化工具
     category: 工具
 
   - title: Unlock Music
     url: https://um-react.netlify.app/
-    description:  音乐解锁工具
+    description: 音乐解锁工具
     category: 工具
 
   - title: 爱给网 - 音频剪切器
     url: https://www.aigei.com/tool/audio/trim
-    description:  在线音频剪切
+    description: 在线音频剪切
     category: 工具
 
   - title: PicGo
     url: https://picgo.github.io/PicGo-Doc/zh/guide/
-    description:  图床工具
+    description: 图床工具
     category: 工具
 
   - title: Vocabulary.com
     url: https://www.vocabulary.com/
-    description:  英语词汇学习
+    description: 英语词汇学习
     category: 工具
 
   - title: SMS-Activate
     url: https://sms-activate.guru/cn
-    description:  短信验证码平台
+    description: 短信验证码平台
     category: 工具
 
   - title: PKMer 知识社区
     url: https://pkmer.cn/page/
-    description:  知识管理社区
+    description: 知识管理社区
     category: 工具
 
   - title: Frontend Developer Roadmap
     url: https://roadmap.sh/frontend
-    description:  前端开发学习路线图
-    category: 编程学习资料
+    description: 前端开发学习路线图
+    category: 编程学习
 
   - title: MDN Web Docs - Learn web development
     url: https://developer.mozilla.org/zh-CN/docs/Learn_web_development
-    description:  MDN Web开发学习文档
-    category: 编程学习资料
+    description: MDN Web开发学习文档
+    category: 编程学习
 
   - title: cuggz的面试指南
     url: https://www.yuque.com/cuggz/interview
-    description:  面试准备资料
-    category: 编程学习资料
+    description: 面试准备资料
+    category: 编程学习
 
   - title: CS自学指南
     url: https://csdiy.wiki/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/#_3
-    description:  计算机科学自学指南
-    category: 编程学习资料
+    description: 计算机科学自学指南
+    category: 编程学习
 
   - title: TeachYourselfCS-CN
     url: https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md
-    description:  计算机科学自学教程
-    category: 编程学习资料
+    description: 计算机科学自学教程
+    category: 编程学习
 
   - title: Hugging Face
     url: https://huggingface.co/
-    description:  AI模型社区
+    description: AI模型社区
     category: 网络社区
 
   - title: GitHub
     url: https://github.com/
-    description:  代码托管平台
+    description: 代码托管平台
     category: 网络社区
 
   - title: Gitee
     url: https://gitee.com/
-    description:  国内代码托管平台
+    description: 国内代码托管平台
     category: 网络社区
 
   - title: Stack Overflow
     url: https://stackoverflow.com/questions
-    description:  技术问答社区
+    description: 技术问答社区
     category: 网络社区
 
   - title: CodePen
     url: https://codepen.io/trending
-    description:  前端代码展示平台
+    description: 前端代码展示平台
     category: 网络社区
 
   - title: 极速云
     url: https://xn--fetx1ybsvkym.com/
-    description:  VPN服务
+    description: VPN服务
     category: VPN
 
   - title: 飞鸟云
     url: https://feiniaoyun.xyz/#/login
-    description:  VPN服务
+    description: VPN服务
     category: VPN
 
   - title: V2RaySE
     url: https://v2rayse.com/
-    description:  VPN服务
+    description: VPN服务
     category: VPN
 
   - title: BlogToday
     url: https://blogtoday.work/#/plan
-    description:  VPN服务
+    description: VPN服务
     category: VPN
 
   - title: 聚合AI后台
     url: https://api.juheai.top/
-    description:  AI API
-    category: AI
+    description: AI API
+    category: AI工具
 
   - title: LobeChat
     url: https://lobe.gptacg.com/chat
-    description:  AI聊天机器人
-    category: AI
+    description: AI聊天机器人
+    category: AI工具
 
   - title: DeepSeek Chat
     url: https://chat.deepseek.com/
-    description:  AI聊天机器人
-    category: AI
+    description: AI聊天机器人
+    category: AI工具
 
   - title: 岐黄
     url: https://qihuang.vip/
-    description:  中医古籍资源
+    description: 中医古籍资源
     category: 电子书
 
   - title: Wiki8 - 中医古籍
     url: https://www.wiki8.cn/guji/books
-    description:  中医古籍资源
+    description: 中医古籍资源
     category: 电子书
 
   - title: 马克思主义文库
     url: https://www.marxists.org/chinese/index.html
-    description:  马克思主义著作
+    description: 马克思主义著作
     category: 电子书
 
   - title: OP.GG
     url: https://www.op.gg/
-    description:  英雄联盟战绩查询
+    description: 英雄联盟战绩查询
     category: 娱乐
 
   - title: 《图书情报》杂志社 官网
     url: http://tsqbzzs.cn/
-    description:  图书情报学术期刊
+    description: 图书情报学术期刊
     category: 其他
 
 notes:
