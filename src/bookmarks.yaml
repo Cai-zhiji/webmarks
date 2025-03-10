@@ -29,7 +29,7 @@ links:
     description: 资源搜索网站
     category: 资源搜索
 
-  - title: UPYUNSO
+  - title: UP云搜
     url: https://www.upyunso.com/
     description: 资源搜索网站
     category: 资源搜索
@@ -49,7 +49,7 @@ links:
     description:  浏览器脚本分享
     category: 资源搜索
 
-  - title: 全家桶不限速下载 - 语雀
+  - title: Adobe全家桶不限速下载 - 语雀
     url: https://www.yuque.com/u21320519/kb/pxhb1a
     description:  不限速下载工具分享
     category: 资源搜索
@@ -58,11 +58,36 @@ links:
     url: https://blog.laoplayer.com/
     description:  软件分享博客
     category: 资源搜索
-
-  - title: e-hentai
+  
+  - title: 腾讯元宝 - 轻松工作 多点生活
+    url: https://yuanbao.tencent.com/chat/naQivTmsDa
+    description: 基于腾讯混元大模型的和DeepSeekAI应用，提供写作、绘画、文案、翻译、编程、搜索、阅读总结等功能
+    category: AI工具
+  
+  - title: Kimi - 会推理解析,能深度思考的AI助手
+    url: https://kimi.moonshot.cn/
+    description: 具备推理解析和深度思考能力的AI助手
+    category: AI工具
+  
+  - title: DeepSeek官方提示词库
+    url: https://api-docs.deepseek.com/zh-cn/prompt-library/?utm_source=ai-bot.cn
+    description: 探索DeepSeek提示词样例，提供代码改写、解释、生成、内容分类、结构化输出、角色扮演、散文写作、诗歌创作、文案大纲生成、宣传标语生成、模型提示词生成、中英翻译等功能
+    category: AI工具
+  
+  - title: Jable.tv Model 83397477054d35cd07e2c48685335a86
+    url: https://jable.tv/models/83397477054d35cd07e2c48685335a86/
+    description: 八卦海
+    category: 你懂的
+  
+  - title: E-Hentai
     url: https://e-hentai.org/
-    description:  你懂的
-    category: 资源搜索 # 请注意使用
+    description: E-Hentai 成人内容网站
+    category: 你懂的
+  
+  - title: Jable.tv Model 1a7543f89b125421e489d98de472ebf4
+    url: https://jable.tv/models/1a7543f89b125421e489d98de472ebf4/
+    description: 森日向子
+    category: 你懂的
 
   - title: WayToAGI - AI 提示词
     url: https://www.waytoagi.com/zh/prompts
@@ -239,8 +264,8 @@ links:
     description:  VPN服务
     category: VPN
 
-  - title: VJJWZ API
-    url: https://api.vjjwz.cn/token
+  - title: 聚合AI后台
+    url: https://api.juheai.top/
     description:  AI API
     category: AI
 
