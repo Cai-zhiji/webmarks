@@ -304,6 +304,52 @@ links:
     description: 图书情报学术期刊
     category: 其他
 
+  # ===== 新增书签 =====
+  - title: 电影百年
+    url: http://49.232.162.167:3006/
+    description: 本地开发或测试服务
+    category: 工具
+
+  - title: 豆包AI
+    url: https://www.doubao.com/chat/
+    description: 字节跳动推出的AI助手
+    category: AI工具
+
+  - title: MCP平台
+    url: https://mcp.so/?tab=innovation
+    description: MCP平台
+    category: 工具
+
+  - title: MCP平台
+    url: https://www.mcp-home.com/
+    description: MCP项目主页
+    category: 工具
+
+  - title: 科研通
+    url: https://www.ablesci.com/
+    description: 科研资源与工具导航
+    category: 资源搜索
+
+  - title: X-MOL学术平台
+    url: https://www.x-mol.com/
+    description: 学术期刊与科研资源
+    category: 学术资源
+
+  - title: ScienceDirect
+    url: https://www.sciencedirect.com/
+    description: 爱思唯尔学术数据库
+    category: 学术资源
+
+  - title: 本科/研究生课程资源
+    url: https://docs.qq.com/sheet/DUm1CQXVibGxSekFJ?tab=000001
+    description: 个人工作表格文档
+    category: 工具
+
+  - title: 国家法律法规数据库
+    url: https://flk.npc.gov.cn/index.html
+    description: 中国官方法律数据库
+    category: 其他
+
 notes:
   - title: 书签说明
     content: 这是一份我的个人书签，按照不同类别进行了整理。部分网站可能需要科学上网才能访问。
