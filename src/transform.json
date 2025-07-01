@@ -1,0 +1,640 @@
+[
+    {
+      "type": "folder",
+      "addDate": 1731140119649,
+      "title": "书签栏",
+      "children": [
+        {
+          "type": "folder",
+          "addDate": 1747545403619,
+          "title": "资源搜索",
+          "children": [
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "豆瓣读书",
+              "icon": "https://logo.clearbit.com/book.douban.com",
+              "url": "https://book.douban.com/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "Anna's Archive",
+              "icon": "https://logo.clearbit.com/annas-archive.org",
+              "url": "https://annas-archive.org/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "阿虚同学的储物间",
+              "icon": "https://logo.clearbit.com/axutongxue.space",
+              "url": "https://axutongxue.space/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "AI工具集官网",
+              "icon": "https://logo.clearbit.com/ai-bot.cn",
+              "url": "https://ai-bot.cn/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "爱达杂货铺",
+              "icon": "https://logo.clearbit.com/adzhp.cc",
+              "url": "https://adzhp.cc/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "资源铺",
+              "icon": "https://logo.clearbit.com/zypuu.com",
+              "url": "https://zypuu.com/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "UP云搜",
+              "icon": "https://logo.clearbit.com/www.upyunso.com",
+              "url": "https://www.upyunso.com/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "Pan666",
+              "icon": "https://logo.clearbit.com/pan666.net",
+              "url": "https://pan666.net/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "Z-Library",
+              "icon": "https://logo.clearbit.com/z-lib.gs",
+              "url": "https://z-lib.gs/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "Greasy Fork",
+              "icon": "https://logo.clearbit.com/greasyfork.org",
+              "url": "https://greasyfork.org/zh-CN"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "Adobe全家桶不限速下载 - 语雀",
+              "icon": "https://logo.clearbit.com/www.yuque.com",
+              "url": "https://www.yuque.com/u21320519/kb/pxhb1a"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "好大头软件",
+              "icon": "https://logo.clearbit.com/blog.laoplayer.com",
+              "url": "https://blog.laoplayer.com/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "Switch520游戏资源",
+              "icon": "https://logo.clearbit.com/www.gamer520.com",
+              "url": "https://www.gamer520.com/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "笨小兔",
+              "icon": "https://logo.clearbit.com/www.benxiaotu.com",
+              "url": "https://www.benxiaotu.com/page/2/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "HiPPTER - PPT资源导航",
+              "icon": "https://logo.clearbit.com/www.hippter.com",
+              "url": "https://www.hippter.com/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "LookAE - 大众脸影视后期特效",
+              "icon": "https://logo.clearbit.com/www.lookae.com",
+              "url": "https://www.lookae.com/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "浙江省公共图书馆资源服务门户",
+              "icon": "https://logo.clearbit.com/zjisa.zjlib.cn",
+              "url": "http://zjisa.zjlib.cn//home/zy_home.jsp"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "科研通",
+              "icon": "https://logo.clearbit.com/www.ablesci.com",
+              "url": "https://www.ablesci.com/"
+            },
+            {
+                "type": "link",
+                "addDate": 1747545403619,
+                "title": "国家法律法规数据库",
+                "icon": "https://logo.clearbit.com/flk.npc.gov.cn",
+                "url": "https://flk.npc.gov.cn/index.html"
+              }
+          ]
+        },
+        {
+          "type": "folder",
+          "addDate": 1747545403619,
+          "title": "AI工具",
+          "children": [
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "腾讯元宝 - 轻松工作 多点生活",
+              "icon": "https://logo.clearbit.com/yuanbao.tencent.com",
+              "url": "https://yuanbao.tencent.com/chat/naQivTmsDa"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "Kimi - 会推理解析,能深度思考的AI助手",
+              "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+              "url": "https://kimi.moonshot.cn/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "聚合AI后台",
+              "icon": "https://logo.clearbit.com/api.juheai.top",
+              "url": "https://api.juheai.top/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "豆包AI",
+              "icon": "https://logo.clearbit.com/www.doubao.com",
+              "url": "https://www.doubao.com/chat/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "JoyceAI后台",
+              "icon": "https://logo.clearbit.com/api.aipipe.top",
+              "url": "https://api.aipipe.top/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "提示词优化器",
+              "icon": "https://logo.clearbit.com/prompt.always200.com",
+              "url": "https://prompt.always200.com/"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "addDate": 1747545403619,
+          "title": "成人内容",
+          "children": [
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "Jable.tv Model 83397477054d35cd07e2c48685335a86",
+              "icon": "https://logo.clearbit.com/jable.tv",
+              "url": "https://jable.tv/models/83397477054d35cd07e2c48685335a86/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "E-Hentai",
+              "icon": "https://logo.clearbit.com/e-hentai.org",
+              "url": "https://e-hentai.org/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "Jable.tv Model 1a7543f89b125421e489d98de472ebf4",
+              "icon": "https://logo.clearbit.com/jable.tv",
+              "url": "https://jable.tv/models/1a7543f89b125421e489d98de472ebf4/"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "addDate": 1747545403619,
+          "title": "工具",
+          "children": [
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "坚果云",
+              "icon": "https://logo.clearbit.com/www.jianguoyun.com",
+              "url": "https://www.jianguoyun.com/d/home#/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "蓝奏云",
+              "icon": "https://logo.clearbit.com/up.woozooo.com",
+              "url": "https://up.woozooo.com/account.php?action=login&amp;ref=/mydisk.php"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "百度网盘",
+              "icon": "https://logo.clearbit.com/pan.baidu.com",
+              "url": "https://pan.baidu.com/disk/main?from=homeFlow#/index?category=all"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "欧路词典",
+              "icon": "https://logo.clearbit.com/dict.eudic.net",
+              "url": "https://dict.eudic.net/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "有道翻译",
+              "icon": "https://logo.clearbit.com/fanyi.youdao.com",
+              "url": "https://fanyi.youdao.com/index.html#/AITranslate"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "AConvert-文件在线转换器",
+              "icon": "https://logo.clearbit.com/www.aconvert.com",
+              "url": "https://www.aconvert.com/cn/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "Alltoall - PDF转Word",
+              "icon": "https://logo.clearbit.com/www.alltoall.net",
+              "url": "https://www.alltoall.net/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "Hex to RGBA Converter",
+              "icon": "https://logo.clearbit.com/coding.tools",
+              "url": "https://coding.tools/cn/hex-to-rgba"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "Markdown Formatter",
+              "icon": "https://logo.clearbit.com/www.xuhuhu.com",
+              "url": "https://www.xuhuhu.com/markdown-formatter.html"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "Unlock Music",
+              "icon": "https://logo.clearbit.com/um-react.netlify.app",
+              "url": "https://um-react.netlify.app/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "爱给网 - 音频剪切器",
+              "icon": "https://logo.clearbit.com/www.aigei.com",
+              "url": "https://www.aigei.com/tool/audio/trim"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "PicGo",
+              "icon": "https://logo.clearbit.com/picgo.github.io",
+              "url": "https://picgo.github.io/PicGo-Doc/zh/guide/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "Vocabulary.com",
+              "icon": "https://logo.clearbit.com/www.vocabulary.com",
+              "url": "https://www.vocabulary.com/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "SMS-Activate",
+              "icon": "https://logo.clearbit.com/sms-activate.guru",
+              "url": "https://sms-activate.guru/cn"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "PKMer 知识社区",
+              "icon": "https://logo.clearbit.com/pkmer.cn",
+              "url": "https://pkmer.cn/page/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "电影百年",
+              "icon": "https://logo.clearbit.com/49.232.162.167",
+              "url": "http://49.232.162.167:3006/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "MCP平台",
+              "icon": "https://logo.clearbit.com/mcp.so",
+              "url": "https://mcp.so/?tab=innovation"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "MCP平台",
+              "icon": "https://logo.clearbit.com/www.mcp-home.com",
+              "url": "https://www.mcp-home.com/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "本科/研究生课程资源",
+              "icon": "https://logo.clearbit.com/docs.qq.com",
+              "url": "https://docs.qq.com/sheet/DUm1CQXVibGxSekFJ?tab=000001"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "Tool.lu 在线工具",
+              "icon": "https://logo.clearbit.com/tool.lu",
+              "url": "https://tool.lu/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "X-CMD 在线命令工具",
+              "icon": "https://logo.clearbit.com/cn.x-cmd.com",
+              "url": "https://cn.x-cmd.com/"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "addDate": 1747545403619,
+          "title": "编程学习",
+          "children": [
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "Frontend Developer Roadmap",
+              "icon": "https://logo.clearbit.com/roadmap.sh",
+              "url": "https://roadmap.sh/frontend"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "MDN Web Docs - Learn web development",
+              "icon": "https://logo.clearbit.com/developer.mozilla.org",
+              "url": "https://developer.mozilla.org/zh-CN/docs/Learn_web_development"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "cuggz的面试指南",
+              "icon": "https://logo.clearbit.com/www.yuque.com",
+              "url": "https://www.yuque.com/cuggz/interview"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "CS自学指南",
+              "icon": "https://logo.clearbit.com/csdiy.wiki",
+              "url": "https://csdiy.wiki/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/#_3"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "TeachYourselfCS-CN",
+              "icon": "https://logo.clearbit.com/github.com",
+              "url": "https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "addDate": 1747545403619,
+          "title": "网络社区",
+          "children": [
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "Hugging Face",
+              "icon": "https://logo.clearbit.com/huggingface.co",
+              "url": "https://huggingface.co/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "GitHub",
+              "icon": "https://logo.clearbit.com/github.com",
+              "url": "https://github.com/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "Gitee",
+              "icon": "https://logo.clearbit.com/gitee.com",
+              "url": "https://gitee.com/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "Stack Overflow",
+              "icon": "https://logo.clearbit.com/stackoverflow.com",
+              "url": "https://stackoverflow.com/questions"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "CodePen",
+              "icon": "https://logo.clearbit.com/codepen.io",
+              "url": "https://codepen.io/trending"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "addDate": 1747545403619,
+          "title": "VPN",
+          "children": [
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "极速云",
+              "icon": "https://logo.clearbit.com/xn--fetx1ybsvkym.com",
+              "url": "https://xn--fetx1ybsvkym.com/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "飞鸟云",
+              "icon": "https://logo.clearbit.com/feiniaoyun.xyz",
+              "url": "https://feiniaoyun.xyz/#/login"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "V2RaySE",
+              "icon": "https://logo.clearbit.com/v2rayse.com",
+              "url": "https://v2rayse.com/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "BlogToday",
+              "icon": "https://logo.clearbit.com/blogtoday.work",
+              "url": "https://blogtoday.work/#/plan"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "addDate": 1747545403619,
+          "title": "电子书",
+          "children": [
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "岐黄",
+              "icon": "https://logo.clearbit.com/qihuang.vip",
+              "url": "https://qihuang.vip/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "Wiki8 - 中医古籍",
+              "icon": "https://logo.clearbit.com/www.wiki8.cn",
+              "url": "https://www.wiki8.cn/guji/books"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "马克思主义文库",
+              "icon": "https://logo.clearbit.com/www.marxists.org",
+              "url": "https://www.marxists.org/chinese/index.html"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "addDate": 1747545403619,
+          "title": "娱乐",
+          "children": [
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "OP.GG",
+              "icon": "https://logo.clearbit.com/www.op.gg",
+              "url": "https://www.op.gg/"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "addDate": 1747545403619,
+          "title": "学术资源",
+          "children": [
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "X-MOL学术平台",
+              "icon": "https://logo.clearbit.com/www.x-mol.com",
+              "url": "https://www.x-mol.com/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "ScienceDirect",
+              "icon": "https://logo.clearbit.com/www.sciencedirect.com",
+              "url": "https://www.sciencedirect.com/"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "addDate": 1747545403619,
+          "title": "行业标准",
+          "children": [
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "行业标准公告",
+              "icon": "https://logo.clearbit.com/www.bzsb.info",
+              "url": "https://www.bzsb.info/public/articleHtml/HB_18437_1_view.html?reurl=NB/T%2011573-2024"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "行业标准-资料下载",
+              "icon": "https://logo.clearbit.com/www.bzfxw.com",
+              "url": "http://www.bzfxw.com/soft/sort055/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "工标网-查询标准",
+              "icon": "https://logo.clearbit.com/www.csres.com",
+              "url": "http://www.csres.com/s.jsp?keyword=%BA%A3%C9%CF%B7%E7%B5%E7&xx=on&pageSize=25&pageNum=4&SortIndex=1&WayIndex=0&nowUrl="
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "全国标准信息公共服务平台",
+              "icon": "https://logo.clearbit.com/std.samr.gov.cn",
+              "url": "https://std.samr.gov.cn/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "国家标准馆·国家数字标准馆",
+              "icon": "https://logo.clearbit.com/www.ndls.org.cn",
+              "url": "https://www.ndls.org.cn/standard/index?keyword=NB/T%2011573-2024"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "addDate": 1747545403619,
+          "title": "建站工具",
+          "children": [
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "VitePress资源推荐 | @sugarat/theme",
+              "icon": "https://logo.clearbit.com/theme.sugarat.top",
+              "url": "https://theme.sugarat.top/recommend.html"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "VitePress | 快速上手中文教程",
+              "icon": "https://logo.clearbit.com/vitepress.yiov.top",
+              "url": "https://vitepress.yiov.top/"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "Vercel静态部署网站 | Yiov",
+              "icon": "https://logo.clearbit.com/yiov.top",
+              "url": "https://yiov.top/website/pages/vercel.html"
+            },
+            {
+              "type": "link",
+              "addDate": 1747545403619,
+              "title": "vitepress-theme-teek",
+              "icon": "https://logo.clearbit.com/vp.teek.top",
+              "url": "https://vp.teek.top/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  
